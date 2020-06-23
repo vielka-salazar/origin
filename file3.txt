@@ -1,0 +1,3 @@
+The working tree is where your files are modified.
+The index is your staging area.
+Your repository shows the history of your committed projects.

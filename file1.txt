@@ -1,0 +1,2 @@
+It is important to use version control.
+It facilitates keeping track of changes.

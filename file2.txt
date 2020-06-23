@@ -1,0 +1,2 @@
+Git is made up of three main spaces.
+A working tree, an index, and a repository.
